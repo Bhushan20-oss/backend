@@ -1,0 +1,30 @@
+todays 
+
+
+REST API
+
+GET /users  - HTML docment render --- done---
+GET /api/users- list all the users  ----- done-----
+
+GET /api/ users/1 - get the user with ID 1 ----- done----
+GET /api/ users/2 - get the user with ID 2   ----- done----
+
+
+POST /api/users - Create new user ----- done 
+
+
+PATCH /api/user/1 -Edit the user with ID 1--done
+
+DELETE  /api/user/1 - Delet the user with the 1  --- done
+
+middle ware ---- done 
+
+headers ---- done 
+
+http status codes --- done 
+
+mogodb nstallation --- done 
+mongo db how to use --- done
+basics cmds of mongo db  --done 
+
+connecting mongo db with node js --- done  
